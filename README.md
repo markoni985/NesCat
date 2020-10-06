@@ -1,3 +1,5 @@
+![Image description](https://github.com/nathalis/NesCat/raw/main/NESCAT_icon.png)
+
 # NesCat 0.5
 
 NESCAT by Nathalis
@@ -19,6 +21,11 @@ PCM5102 I2S AUDIO MODULE, OTHER PARTS...
 - PS4 DualShock BlueTooth Gamepad (experimental)
 
 Only for personal & educational use! 
+
+### DIAGRAM (NEW)
+![Image description](https://github.com/nathalis/NesCat/raw/main/PCB/SCHEMATIC.png)
+![Image description](https://github.com/nathalis/NesCat/raw/main/PCB/BOARD.png)
+
 
 ### IMAGES:
 
