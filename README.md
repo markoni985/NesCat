@@ -20,3 +20,19 @@ PCM5102 I2S AUDIO MODULE, OTHER PARTS...
 
 Only for personal & educational use! 
 
+### IMAGES:
+
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/001.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/002.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/003.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/004.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/005.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/006.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/007.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/008.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/009.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/010.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/011.jpg)
+![Image description](https://github.com/nathalis/NesCat/raw/main/Images/012.jpg)
+
+
