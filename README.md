@@ -6,7 +6,7 @@ NESCAT by Nathalis
 prototype version: 0.5 (c)2020
 Enhanced version Nintendo Emulator for ESP32
 
-Requirements: ESP32 WEMOS D1 MINI, SD7789 LCD, MICROSD CARD slot,
+Requirements: ESP32 WEMOS D1 MINI, ST7789 LCD, MICROSD CARD slot,
 PCM5102 I2S AUDIO MODULE, OTHER PARTS...
 
 
